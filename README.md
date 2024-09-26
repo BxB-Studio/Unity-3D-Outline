@@ -7,19 +7,12 @@ A simple and customizable 3D outline for Unity based on the Shader Graph package
 Add the `3D Outline` script to any GameObject that has MeshRenderers.
 
 ## Features
-- High performant code (Using C# Jobs System)
-- Joysticks/Gamepad compatibility
-- Runtime double press and hold binding
-- Bind keys within the Unity Editor
-- Edit inputs at runtime
-- High performant code
-- Easy inputs setup
-- Save and import presets
-- Editor ready JSON presets
-- Fully customizable API
-- Dynamic editor window
-- Secured data saving
-- Wide range of settings
+- Compatible with All Render Pipelines (Built-In, URP, HDRP, Custom RP).
+- Lightweight & performant.
+- Uses Unity's ShaderGraph.
+- Supports GPU Instancing.
+- Supports early Unity versions.
+- Simple & easily customizable.
 
 ## Compatibility
 - Unity 2020.2.0b20 or newer<br/>
