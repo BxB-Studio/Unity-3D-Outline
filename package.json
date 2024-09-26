@@ -15,5 +15,12 @@
     "name": "BxB Studio",
     "email": "contact@bxbstudio.dev",
     "url": "https://bxbstudio.dev"
-  }
+  },
+  "samples": [
+        {
+            "displayName": "Default Sample",
+            "description": "Contains a sample scene to test and try 3D Outline in action",
+            "path": "Samples~/Default Sample"
+        }
+    ]
 }
