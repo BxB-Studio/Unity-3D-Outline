@@ -1,0 +1,19 @@
+{
+  "displayName": "3D Outline",
+  "name": "dev.bxbstudio.3d-outline",
+  "description": "A simple and customizable 3D outline for Unity based on the Shader Graph package.",
+  "version": "1.0.0",
+  "unity": "2020.2",
+  "unityRelease": "0a20",
+  "dependencies": {
+    "com.unity.shadergraph": "10.0.0-preview.27"
+  },
+  "documentationUrl": "https://github.com/BxB-Studio/Inputs-Manager/blob/master/README.md",
+  "changelogUrl": "https://github.com/BxB-Studio/Inputs-Manager/blob/master/README.md",
+  "licensesUrl": "https://github.com/BxB-Studio/Inputs-Manager/blob/master/LICENSE.md",
+  "author": {
+    "name": "BxB Studio",
+    "email": "contact@bxbstudio.dev",
+    "url": "https://bxbstudio.dev"
+  }
+}
